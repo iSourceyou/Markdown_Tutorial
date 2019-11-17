@@ -1,2 +1,2 @@
-# dididi
-Record common guide
+# Markdown 语法介绍 #
+
