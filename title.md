@@ -10,6 +10,4 @@
     ###### 六级标题
 
 #### 点击预览可以看到效果：
-![1.1标题]_ (images /title.png)
-！[] （https://i.imgur.com/jrDXxWd.png）
-![1.1](images/title.png)
+![1.1标题](images/title.png)
